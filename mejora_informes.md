@@ -6,4 +6,4 @@
     - También se agrega el verbose correspondiente.
     - Se corrige el tiempo de ejecución de Dijkstra, ahora considerando la nueva implementación.
     - Ahora se muestra correctamente el gráfico para el primer experimento (media de tiempo de Bellman-Ford) y se expandió brevemente su análisis.
-    - Se realiza el segundo experimento que consiste en comparar ambos algoritmos implementados.
+    - Se realiza el segundo experimento que consiste en comparar el tiempo de ejecución de ambos algoritmos implementados.
